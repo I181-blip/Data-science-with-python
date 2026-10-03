@@ -1,1 +1,0 @@
-,"sns.barplot(x='zip',","y='factory',","hue='location_type',data=fasla)"
